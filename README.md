@@ -4,7 +4,7 @@ This project allows to control watering of plants by using phisical components l
 
 ## Architecture of the project
 
-<put here architecture diagram>
+<img width="1156" alt="Screenshot 2023-08-10 at 16 10 58" src="https://github.com/ockamey/plant/assets/140854403/9ccffdf6-b5de-46b1-8a0a-ebad6855cdb3">
 
 ## Phisical components used in the project
 
