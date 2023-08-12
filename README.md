@@ -40,8 +40,8 @@ The main module connects to the IoT Hub, and every n minutes, sends information 
         }
     }
     ```
-    
-https://github.com/ockamey/plant/assets/140854403/6ff76e8f-9285-4280-9ab1-a25b916b9876
+
+https://github.com/ockamey/plant/assets/140854403/354dd909-dc9b-4d1a-902f-62db2410225f
 
 
 * **Read** - it's used to obtain readings from the sensor.
@@ -66,7 +66,7 @@ https://github.com/ockamey/plant/assets/140854403/6ff76e8f-9285-4280-9ab1-a25b91
     }
     ```
 
-https://github.com/ockamey/plant/assets/140854403/0b783fb8-8d3f-4b85-a6a9-d41ee901a181
+https://github.com/ockamey/plant/assets/140854403/697935b3-1900-48fa-a8bd-590e5c3cc45c
 
     
 * **Start Streaming** - it's used to start video streaming from Raspberry Pi to Azure Media Services. The Live Streaming Event in AMS has to be started before that.
