@@ -11,7 +11,7 @@ This project allows to control watering of plants by using phisical components l
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/forhIUt8PwY/0.jpg)](https://www.youtube.com/watch?v=forhIUt8PwY)
 
-## Images of the project
+## Images
 
 <img src="https://github.com/ockamey/plant/assets/140854403/7d7267da-d88d-456f-9ad1-fc00e4aa4bf5" alt="pic1" width="400"/>
 
