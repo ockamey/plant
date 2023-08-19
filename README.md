@@ -2,18 +2,18 @@
 
 This project allows to control watering of plants by using phisical components like relay or pumps, as well as Azure services to send requests or analyze data.
 
-## Architecture of the project
-
-<img width="1156" alt="Screenshot 2023-08-10 at 16 10 58" src="https://github.com/ockamey/plant/assets/140854403/9ccffdf6-b5de-46b1-8a0a-ebad6855cdb3">
-
 ## Demo
-### Pump 1 with Video Streaming
+### Pump 1
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wpda6YF3fcg/0.jpg)](https://www.youtube.com/watch?v=wpda6YF3fcg)
 
-### Pump 2 with Video Streaming
+### Pump 2
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/forhIUt8PwY/0.jpg)](https://www.youtube.com/watch?v=forhIUt8PwY)
+
+## Architecture of the project
+
+<img width="1156" alt="Screenshot 2023-08-10 at 16 10 58" src="https://github.com/ockamey/plant/assets/140854403/9ccffdf6-b5de-46b1-8a0a-ebad6855cdb3">
 
 ## Phisical components used in the project
 
