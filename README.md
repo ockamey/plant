@@ -8,6 +8,9 @@ This project allows to control watering of plants by using phisical components l
 
 ## Demo
 ### Pump 1 with Video Streaming
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wpda6YF3fcg/0.jpg)](https://www.youtube.com/watch?v=wpda6YF3fcg)
+
 https://www.youtube.com/watch?v=wpda6YF3fcg
 
 ## Phisical components used in the project
