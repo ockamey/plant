@@ -138,6 +138,10 @@ https://github.com/ockamey/plant/assets/140854403/697935b3-1900-48fa-a8bd-590e5c
         }
     }
     ```
+Screenshots from Azure Data Explorer:
+<img src="https://github.com/ockamey/plant/assets/140854403/1d75fa96-c5ab-4056-864a-9326f4cff090" alt="pic3" width="800"/>
+
+<img src="https://github.com/ockamey/plant/assets/140854403/40a14371-f8a7-4adf-9955-24c2101282d8" alt="pic3" width="800"/>
 
 ### `capture.py`
 Tthe side module which takes a picture from Raspberry Pi Camera, and uploads it to the Storage Account. The program is triggered every 5 min by cron job (`crontab -e`). To save some space in Raspberry Pi and in Azure, the cleanup activities have been configured. In Raspberry Pi, there is another cron for that to remove all pictures older than 24h (`0 0 * * * find <path to captures tmp folder>/* -mmin +1440 -delete`). On Azure side, in the Storage Account, Lifecycle Mangement has been configured to remove all captures older than a month.
