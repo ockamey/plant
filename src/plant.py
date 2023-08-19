@@ -13,12 +13,23 @@ from azure.iot.device import IoTHubSession, DirectMethodResponse
 from adafruit_seesaw.seesaw import Seesaw
 
 async def main():
-    while True:
+    async_state = {}
+    sensor_and_pumps_initialized = False
+    while not sensor_and_pumps_initialized:
         try:
-            async_state = {}
             sensor = init_sensor()
             init_pumps()
+            sensor_and_pumps_initialized = True
+            log("Pumps and sensor successfully initialized.")
+        except Exception:
+            log(traceback.format_exc())
+            await asyncio.sleep(config.error_retry_seconds)
+    
+    while True:
+        try:
+            log("Connecting to IoT Hub...")
             async with IoTHubSession.from_connection_string(config.iot_hub_connection_string) as session:
+                log("Connected to IoT Hub.")
                 await asyncio.gather(
                     recurring_telemetry(session, sensor),
                     receive_direct_method_requests(session, async_state, sensor)
