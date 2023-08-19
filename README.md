@@ -6,6 +6,10 @@ This project allows to control watering of plants by using phisical components l
 
 <img width="1156" alt="Screenshot 2023-08-10 at 16 10 58" src="https://github.com/ockamey/plant/assets/140854403/9ccffdf6-b5de-46b1-8a0a-ebad6855cdb3">
 
+## Demo
+### Pump 1 with Video Streaming
+https://www.youtube.com/watch?v=wpda6YF3fcg
+
 ## Phisical components used in the project
 
 * Raspberry Pi Zero WH - to send signals to/from Azure and to/from phisical devices
