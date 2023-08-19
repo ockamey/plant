@@ -11,6 +11,18 @@ This project allows to control watering of plants by using phisical components l
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/forhIUt8PwY/0.jpg)](https://www.youtube.com/watch?v=forhIUt8PwY)
 
+## Images of the project
+
+<img src="https://github.com/ockamey/plant/assets/140854403/7d7267da-d88d-456f-9ad1-fc00e4aa4bf5" alt="pic1" width="400"/>
+
+<img src="https://github.com/ockamey/plant/assets/140854403/2cf1ea30-3f3d-4fff-851e-799858f0daa9" alt="pic2" width="400"/>
+
+<img src="https://github.com/ockamey/plant/assets/140854403/d4560829-f345-4ed9-b0c2-b0985572461e" alt="pic3" width="800"/>
+
+<img src="https://github.com/ockamey/plant/assets/140854403/4f20f1b1-3d03-4676-9792-fef4154e8d7f" alt="pic3" width="400"/>
+
+<img src="https://github.com/ockamey/plant/assets/140854403/1ffe9820-cf1e-49c0-a1bd-ae5866ddbc22" alt="pic3" width="400"/>
+
 ## Architecture of the project
 
 <img width="1156" alt="Screenshot 2023-08-10 at 16 10 58" src="https://github.com/ockamey/plant/assets/140854403/9ccffdf6-b5de-46b1-8a0a-ebad6855cdb3">
