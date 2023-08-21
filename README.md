@@ -3,11 +3,11 @@
 This project allows to control watering of plants by using phisical components like relay or pumps, as well as Azure services to send requests or analyze data.
 
 ## Demo of running Pumps with Video Streaming
-### Pump 1
+### Video of Pump 1
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wpda6YF3fcg/0.jpg)](https://www.youtube.com/watch?v=wpda6YF3fcg)
 
-### Pump 2
+### Video Pump 2
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/forhIUt8PwY/0.jpg)](https://www.youtube.com/watch?v=forhIUt8PwY)
 
